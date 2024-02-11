@@ -1,0 +1,73 @@
+/* * {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  outline: none;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(108deg, #E0E0F9 0%, #DADAFF 100%);
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 24px;
+  border-radius: 10px;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #28152F;
+}
+
+input {
+  width: 300px;
+  border-radius: 6px;
+  border: 1.5px solid #DEE1EA;
+  padding: 12px 20px;
+}
+
+input:focus {
+  border-color: #506CFF;
+}
+
+.countdown-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 24px 0px;
+}
+
+.countdown-text > p {
+  font-size: 13px;
+  font-weight: 400;
+  color: #2D1D35;
+}
+
+.countdown-text > button {
+  background-color: #fff;
+  border: none;
+  color: #FE5B00;
+  font-weight: 500;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.submit-btn {
+  width: 100%;
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 10px;
+  background: linear-gradient(91deg, #9076FC 0%, #6950FF 100%);
+} */
